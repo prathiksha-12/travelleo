@@ -74,3 +74,45 @@ Create a `.env` file in the project root:
 VITE_OPENWEATHER_API_KEY=your_openweather_api_key
 GEMINI_API_KEY=your_gemini_api_key
 ```
+
+## How to Run Locally
+
+Install the dependencies:
+
+npm install
+
+Start the development server:
+
+npm run dev
+
+For local Vercel API routes:
+
+npx vercel dev
+
+## Build
+
+Create a production build:
+
+npm run build
+
+## Deployment
+
+Travelleo is deployed using Vercel.
+
+The deployed application was tested in a private/incognito browser window to verify the production environment and API functionality.
+
+## Responsive Design
+
+Travelleo is designed for:
+
+Desktop
+
+Mobile devices
+
+## Screenshots
+
+Screenshots of the Travelleo application are included below.
+
+## Author
+
+Prathiksha Rao Mane P
