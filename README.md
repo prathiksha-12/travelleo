@@ -119,7 +119,7 @@ Mobile devices
 
 ![Travelleo AI Assistant](screenshot/2.png)
 
-### Weather
+### Explore
 
 ![Travelleo Explore ](screenshot/1.png)
 
