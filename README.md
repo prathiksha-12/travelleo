@@ -113,7 +113,7 @@ Mobile devices
 
 ### Travelleo Home & Destinations
 
-![Travelleo Home and Destinations](screenshot/1.png)
+![Travelleo Home and Destinations](screenshot/3.png)
 
 ### AI Travel Assistant
 
@@ -121,7 +121,7 @@ Mobile devices
 
 ### Weather
 
-![Travelleo Weather](screenshot/3.png)
+![Travelleo Explore ](screenshot/1.png)
 
 ## Author
 
