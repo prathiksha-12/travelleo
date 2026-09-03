@@ -111,7 +111,17 @@ Mobile devices
 
 ## Screenshots
 
-Screenshots of the Travelleo application are included below.
+### Travelleo Home & Destinations
+
+![Travelleo Home and Destinations](screenshot/1.png)
+
+### AI Travel Assistant
+
+![Travelleo AI Assistant](screenshot/2.png)
+
+### Weather
+
+![Travelleo Weather](screenshot/3.png)
 
 ## Author
 
